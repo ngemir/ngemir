@@ -16,7 +16,6 @@ I'm currently / reforcing more my javascript knowledge.
 #### Design tools (for support web image)
 - [x] Photoshop / Krita
 - [x] Illustrator / Inkscape
-- [x] Blender
 - [x] Figma
 
 #### Office (if necessary) 
