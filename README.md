@@ -25,7 +25,7 @@ I'm currently / reforcing more my javascript knowledge.
 
 #### Language
 - Brazilian Portuguese 5/5
-- Japanese 3/5
+- Japanese 4/5
 - English 3/5 
 
 ### Some personal information
