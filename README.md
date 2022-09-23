@@ -1,4 +1,4 @@
-<div style="display:flex;gap:20px"> 
+<div> 
 <div>       
 <h1>Hi, i'm Emir Takayama. Welcome to my github.</h1>
 
@@ -68,8 +68,7 @@
 
 </div>
 
-<div style="background: rgb(0,0,0);
-background: linear-gradient(0deg, rgba(0,0,0,0) 30%, rgba(98,195,236,1) 40%, rgba(0,4,135,1) 100%);padding:20px">
+<div>
 
 <h2 style="border-bottom:5px solid">Contact</h2>
 
