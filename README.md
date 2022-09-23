@@ -70,10 +70,10 @@
 
 <div>
 
-<h2 style="border-bottom:5px solid">Contact</h2>
+<h2>Contact</h2>
 
 <h3>Here's some portfolio that i made <a href="https://github.com/stars/SwaveNg/lists/portfolio">🔗Portfolio</a></h3>
-<ul style="list-style:none">
+<ul>
 <li>
 <a href="https://linktr.ee/emirng"><img src="https://assets.production.linktr.ee/cfc63e2b1b893683951fc6bbc6f20b59402d261c/images/logo_trees.svg" height="20px">LinkTree</a>
 </li>
