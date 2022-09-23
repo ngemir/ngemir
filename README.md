@@ -11,7 +11,6 @@
 <h3>Skills</h3>
 <h4>Web Development</h4>
 <div>
-    <p>That I know </p>
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,git,github,jquery" />
 </div>
 
