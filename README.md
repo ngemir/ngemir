@@ -1,4 +1,4 @@
-### Hi, i'm Emir Takayama. Welcome to my github.
+### Hi, i'm Emir Takayama. Welcome to my github. Here's some portfolio that i made [🔗Portfolio](https://github.com/stars/SwaveNg/lists/portfolio)
 
 ## About me
 I'm studying front-end and publishing here some project that I worked.
