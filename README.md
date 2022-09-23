@@ -1,7 +1,6 @@
-<div> 
-<div>       
 <h1>Hi, i'm Emir Takayama. Welcome to my github.</h1>
 
+<div>  
 <h2>About me</h2>
 <p>I'm studying front-end and publishing here some project that I worked.</p>
 <p>I'm currently / reforcing more my javascript knowledge.</p>
@@ -77,9 +76,6 @@
 </ul>
 
 </div>
-
-</div>
-
 
 <!--
     **SwaveNg/SwaveNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
