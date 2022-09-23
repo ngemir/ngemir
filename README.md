@@ -73,20 +73,21 @@
 <h2>Contact</h2>
 
 <h3>Here's some portfolio that i made <a href="https://github.com/stars/SwaveNg/lists/portfolio">🔗Portfolio</a></h3>
-<ul>
-<li>
-<a href="https://linktr.ee/emirng"><img src="https://assets.production.linktr.ee/cfc63e2b1b893683951fc6bbc6f20b59402d261c/images/logo_trees.svg" height="20px">LinkTree</a>
-</li>
-<li>
-<a href="https://www.facebook.com/ngemir"><img width="20px" src="https://img.icons8.com/color/2x/facebook.png"/> Facebook</a>
-</li>
-<li>
-<a href="https://www.linkedin.com/in/ngemir/"><img width="20px" src="https://skillicons.dev/icons?i=linkedin"/> LinkedIn</a>
-</li>
-<li>
-<a href="https://twitter.com/NgEmir_"><img width="20px" src="https://skillicons.dev/icons?i=twitter"/> Twitter</a>
-</li>
-</ul>
+
+<a href="https://linktr.ee/emirng"><img src="https://img.shields.io/badge/LinkTree-239120?style=for-the-badge&logoColor=white"></a>
+
+
+<a href="https://www.facebook.com/ngemir"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+"/></a>
+
+
+<a href="https://www.linkedin.com/in/ngemir/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+
+<a href="https://twitter.com/NgEmir_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+"/></a>
+
+
 
 <h3>Some personal information</h3>
 <ul>
