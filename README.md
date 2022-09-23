@@ -11,7 +11,7 @@
 <h3>Skills</h3>
 <h4>Web Development</h4>
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,git,github,jquery" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,jquery" />
 </div>
 
 <h4>Design tools (for support web image)</h4>
@@ -22,13 +22,6 @@
     <img width="50px" src="https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Apps-inkscape-icon.png"/>
     <img src="https://skillicons.dev/icons?i=figma"/>
     <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png"/>
-</div>
-
-<h4>Office (if necessary)</h4>
-<div>
-    <img width="50px" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_word_logo_icon_145724.png"/>
-    <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"/>
-    <img width="50px" src="https://logodownload.org/wp-content/uploads/2020/04/microsoft-powerpoint-logo-1.png"/>
 </div>
 
 <h4>Language</h4>
