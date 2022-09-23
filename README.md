@@ -15,7 +15,12 @@ I'm currently / reforcing more my javascript knowledge.
 
 #### Design tools (for support web image)
 <div>
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma"/>
+  <img src="https://skillicons.dev/icons?i=photoshop"/>
+  <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Calligra_Krita_icon.svg/1200px-Calligra_Krita_icon.svg.png"/>
+  <img src="https://skillicons.dev/icons?i=illustrator"/>
+  <img width="50px" src="https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Apps-inkscape-icon.png"/>
+  <img src="https://skillicons.dev/icons?i=figma"/>
+  <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png"/>
 </div>
 
 #### Office (if necessary) 
