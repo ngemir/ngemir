@@ -1,11 +1,13 @@
-<h1>Hi, i'm Emir Takayama. Welcome to my github.</h1>
+<img align="left" alt="Hello" src="https://media1.giphy.com/media/XO8RMtRaK73isIt0i2/200w.webp?cid=ecf05e47x20b80wr504f9on8iqqwwja5f83j5osmy4jbe67j&rid=200w.webp&ct=g"/>
+
+<h1 align="left">Hi, i'm Emir Takayama. Welcome to my github.</h1>
+
+<br>
 
 <div>  
 <h2>About me</h2>
 <p>I'm studying front-end and publishing here some project that I worked.</p>
 <p>I'm currently / reforcing more my javascript knowledge.</p>
-
-<img alt="Hello" src="https://media1.giphy.com/media/XO8RMtRaK73isIt0i2/200w.webp?cid=ecf05e47x20b80wr504f9on8iqqwwja5f83j5osmy4jbe67j&rid=200w.webp&ct=g"/>
 
 <h3>Skills</h3>
 <h4>Web Development</h4>
