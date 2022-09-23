@@ -74,8 +74,7 @@ background: linear-gradient(0deg, rgba(0,0,0,0) 30%, rgba(98,195,236,1) 40%, rgb
 <h2 style="border-bottom:5px solid">Contact</h2>
 
 <h3>Here's some portfolio that i made <a href="https://github.com/stars/SwaveNg/lists/portfolio">🔗Portfolio</a></h3>
-<iframe src="https://linktr.ee/emirng" style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);"></iframe>
-<!-- <ul style="list-style:none">
+<ul style="list-style:none">
 <li>
 <a href="https://linktr.ee/emirng"><img src="https://assets.production.linktr.ee/cfc63e2b1b893683951fc6bbc6f20b59402d261c/images/logo_trees.svg" height="20px">LinkTree</a>
 </li>
@@ -88,7 +87,7 @@ background: linear-gradient(0deg, rgba(0,0,0,0) 30%, rgba(98,195,236,1) 40%, rgb
 <li>
 <a href="https://twitter.com/NgEmir_"><img width="20px" src="https://skillicons.dev/icons?i=twitter"/> Twitter</a>
 </li>
-</ul> -->
+</ul>
 
 <h3>Some personal information</h3>
 <ul>
