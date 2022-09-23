@@ -1,8 +1,10 @@
-### Hi, i'm Emir Takayama. Welcome to my github. Here's some portfolio that i made [🔗Portfolio](https://github.com/stars/SwaveNg/lists/portfolio)
+# Hi, i'm Emir Takayama. Welcome to my github.
 
 ## About me
 I'm studying front-end and publishing here some project that I worked.
-I'm currently / reforcing more my javascript knowledge. 
+I'm currently / reforcing more my javascript knowledge.
+
+![Hello](https://media1.giphy.com/media/XO8RMtRaK73isIt0i2/200w.webp?cid=ecf05e47x20b80wr504f9on8iqqwwja5f83j5osmy4jbe67j&rid=200w.webp&ct=g)
 
 ### Skills
 #### Web Development
@@ -57,15 +59,16 @@ I'm currently / reforcing more my javascript knowledge.
   </div>
 </div>
 
+## Contact
+### Here's some portfolio that i made [🔗Portfolio](https://github.com/stars/SwaveNg/lists/portfolio)
+> [<img src="https://assets.production.linktr.ee/cfc63e2b1b893683951fc6bbc6f20b59402d261c/images/logo_trees.svg" height="20px"> LinkTree](https://linktr.ee/emirng)
+> [<img width="20px" src="https://img.icons8.com/color/2x/facebook.png"/> Facebook](https://www.facebook.com/ngemir)
+> [<img width="20px" src="https://skillicons.dev/icons?i=linkedin"/> LinkedIn](https://www.linkedin.com/in/ngemir/)
+> [<img width="20px" src="https://skillicons.dev/icons?i=twitter"/> Twitter](https://twitter.com/NgEmir_)
+
 ### Some personal information
 - Like anime, manga, games and movies, some books too.
-- Introvert and reserved, so I talk very little in general.
-
-## Contact
-[<img src="https://assets.production.linktr.ee/cfc63e2b1b893683951fc6bbc6f20b59402d261c/images/logo_trees.svg" height="20px">LinkTree](https://linktr.ee/emirng)
-[Facebook](https://www.facebook.com/ngemir)
-[LinkedIn](https://www.linkedin.com/in/ngemir/)
-[Twitter](https://twitter.com/NgEmir_)
+- Introvert and reserved, so I seldom start a talk.
 
 <!--
 **SwaveNg/SwaveNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
