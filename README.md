@@ -25,28 +25,26 @@
 
 <h4>Language</h4>
 <div>
-    <div>
-        <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png"/>
-        <img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
-        <img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
-        <img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
-        <img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
-        <img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
-        
-        <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/800px-Flag_of_Japan.svg.png"/>
-        <img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
-        <img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
-        <img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
-        <img width="20px" src="https://cdn-icons-png.flaticon.com/128/126/126482.png"/>
-        <img width="20px" src="https://cdn-icons-png.flaticon.com/128/126/126482.png"/>
+<img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png"/>
+<img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
+<img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
+<img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
+<img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
+<img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
 
-        <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png"/>
-        <img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
-        <img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
-        <img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
-        <img width="20px" src="https://cdn-icons-png.flaticon.com/128/126/126482.png"/>
-        <img width="20px" src="https://cdn-icons-png.flaticon.com/128/126/126482.png"/>
-    </div>
+<img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/800px-Flag_of_Japan.svg.png"/>
+<img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
+<img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
+<img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
+<img width="20px" src="https://cdn-icons-png.flaticon.com/128/126/126482.png"/>
+<img width="20px" src="https://cdn-icons-png.flaticon.com/128/126/126482.png"/>
+
+<img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png"/>
+<img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
+<img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
+<img width="20px" src="https://cdn-icons-png.flaticon.com/128/148/148841.png"/>
+<img width="20px" src="https://cdn-icons-png.flaticon.com/128/126/126482.png"/>
+<img width="20px" src="https://cdn-icons-png.flaticon.com/128/126/126482.png"/>
 </div>
 
 </div>
