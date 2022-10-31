@@ -13,6 +13,7 @@
 <h4>Web Development</h4>
 <div>
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,jquery,react" />
+    (Learning now ->) <img src="https://skillicons.dev/icons?i=nodejs" />
 </div>
 
 <h4>Design tools (for support web image)</h4>
