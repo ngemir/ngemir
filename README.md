@@ -12,7 +12,7 @@
 <h3>Skills</h3>
 <h4>Web Development</h4>
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,jquery" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,jquery,react" />
 </div>
 
 <h4>Design tools (for support web image)</h4>
