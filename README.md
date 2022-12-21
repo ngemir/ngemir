@@ -56,7 +56,7 @@
 
 <h2>Contact</h2>
 
-<h3>Here's some portfolio that i made <a href="https://github.com/stars/SwaveNg/lists/portfolio"><img src="https://img.shields.io/badge/portfolio-100000?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
+<h3>Here's some portfolio that i made <a href="https://github.com/stars/ngemir/lists/portfolio"><img src="https://img.shields.io/badge/portfolio-100000?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
 
 <a href="https://linktr.ee/emirng"><img src="https://img.shields.io/badge/LinkTree-239120?style=for-the-badge&logoColor=white"/></a> <a href="https://www.facebook.com/ngemir"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ngemir/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/NgEmir_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
@@ -71,7 +71,7 @@
 </div>
 
 <!--
-    **SwaveNg/SwaveNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    **ngemir/ngemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
     
     Here are some ideas to get you started:
     
