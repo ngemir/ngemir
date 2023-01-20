@@ -7,7 +7,7 @@
 <div>  
 <h2>About me</h2>
 <p>I'm studying front-end and publishing here some project that I worked.</p>
-<p>I'm currently / reforcing more my javascript knowledge.</p>
+<p>I'm currently / reforcing more my PHP knowledge.</p>
 
 <h3>Skills</h3>
 <h4>Web Development</h4>
