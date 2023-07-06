@@ -14,10 +14,10 @@
 <div>
     <h4>Front-End</h4> 
     <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,react,express" />
     <h4>Back-end</strong>
     <br/>
-    <img src="https://skillicons.dev/icons?i=php,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=php,nodejs" />
     <h4>DB</strong>
     <br/>
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
