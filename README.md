@@ -12,8 +12,20 @@
 <h3>Skills</h3>
 <h4>Web Development</h4>
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,jquery,react,nodejs" />
-    (Learning now ➡) <img src="https://skillicons.dev/icons?i=next" />
+    <h4>Front-End</h4> 
+    <br/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,react" />
+    <h4>Back-end</strong>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=php,nodejs,express" />
+    <h4>DB</strong>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <br/>
+    <h4>Others</h4>
+    <img src="https://skillicons.dev/icons?i=wordpress,git,github,postman" />
+    <br/>
+    <h4>*** ↓ Learning now ***</h4> <img src="https://skillicons.dev/icons?i=graphql" />
 </div>
 
 <h4>Design tools (for support web image)</h4>
