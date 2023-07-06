@@ -25,7 +25,7 @@
     <h4>Others</h4>
     <img src="https://skillicons.dev/icons?i=wordpress,git,github,postman" />
     <br/>
-    <h4>*** ↓ Learning now ***</h4> <img src="https://skillicons.dev/icons?i=graphql" />
+    <h4>*** ↓ Learning now ***</h4> <img src="https://skillicons.dev/icons?i=tailwind" />
 </div>
 
 <h4>Design tools (for support web image)</h4>
