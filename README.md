@@ -14,18 +14,18 @@
 <div>
     <h4>Front-End</h4> 
     <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,react,express" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery" />
     <h4>Back-end</strong>
     <br/>
-    <img src="https://skillicons.dev/icons?i=php,nodejs" />
+    <img src="https://skillicons.dev/icons?i=php" />
     <h4>DB</strong>
     <br/>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
     <br/>
     <h4>Others</h4>
     <img src="https://skillicons.dev/icons?i=wordpress,git,github,postman" />
     <br/>
-    <h4>*** ↓ Learning now ***</h4> <img src="https://skillicons.dev/icons?i=tailwind" />
+    <h4>*** ↓ Learning now ***</h4> <img src="https://skillicons.dev/icons?i=cs,php,laravel" />
 </div>
 
 <h4>Design tools (for support web image)</h4>
