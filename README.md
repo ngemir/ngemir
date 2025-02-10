@@ -2,7 +2,6 @@
 
 <h1 align="left">Hi, i'm Emir Takayama. Welcome to my github.</h1>
 
-<br>
 
 <div>  
 <h2>About me</h2>
