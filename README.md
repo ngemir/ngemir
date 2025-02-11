@@ -73,9 +73,10 @@
 
 </div>
 
-
-![Emir's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ngemir&layout=compact&theme=github_dark)
-![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngemir&show_icons=true&rank_icon=github&theme=github_dark)
+<div style="display: block">
+    <img style="display: inline" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngemir&layout=compact&theme=github_dark"/>
+    <img style="display: inline" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ngemir&show_icons=true&rank_icon=github&theme=github_dark"/>
+</div>
 
 
 <!--
