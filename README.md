@@ -74,7 +74,8 @@
 </div>
 
 
-![Emir's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ngemir&layout=compact)
+![Emir's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ngemir&layout=compact&theme=github_dark)
+![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngemir&show_icons=true&rank_icon=github&theme=github_dark)
 
 
 <!--
